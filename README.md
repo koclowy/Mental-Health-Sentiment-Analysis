@@ -33,4 +33,4 @@ The purpose of this project is to:
 - **Python**  
 - **TensorFlow / Keras**  
 - **Scikit-learn**  
-- **NumPy**, **Pandas**, **Matplotlib**, **NLTK**
+- **NumPy**, **Pandas**, **Matplotlib**, **NLTK**, **spacy**, **nlpaug**
